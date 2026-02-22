@@ -378,6 +378,41 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 🤝 **Contributing**
+
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+
+### **Quick Start Contributing**
+```bash
+# Fork and clone
+git clone https://github.com/your-username/syntara-pro.git
+cd syntara-pro
+
+# Set up environment
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+# Make changes and submit PR
+git checkout -b feature/amazing-feature
+git commit -m "Add amazing feature"
+git push origin feature/amazing-feature
+```
+
+## 🔒 **Security**
+
+We take security seriously. Please report vulnerabilities to:
+- 📧 **Email**: security@syntara-pro.com
+- 📄 **Security Policy**: [SECURITY.md](SECURITY.md)
+
+## 📋 **Code of Conduct**
+
+Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming environment for everyone.
+
+## 📝 **Changelog**
+
+See what's new in our [CHANGELOG.md](CHANGELOG.md).
+
 ---
 
 ## 🙏 **Acknowledgments**
@@ -444,5 +479,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **⭐ If you like this project, please give it a star!**
 
 </div>
-#   s y n t a r a - p r o  
+#   s y n t a r a - p r o 
+ 
  
