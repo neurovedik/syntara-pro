@@ -1,0 +1,3 @@
+# Disable Jekyll processing
+# This file tells GitHub Pages to treat the repository as a static site
+# rather than trying to process it with Jekyll
